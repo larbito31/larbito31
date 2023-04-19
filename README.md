@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-"I am currently focusing on developing myself in the backend."
+"At present, I am concentrating on improving my skills in backend development."
 
 
 # 💻 Tech Stack:
