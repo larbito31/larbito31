@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently learning Javascript, Node.js, Express.js, MangoDB and React<br>Ask me about Javascript 
+"I am currently focusing on developing myself in the backend."
 
 
 # 💻 Tech Stack:
