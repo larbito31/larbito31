@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently learning dart and flutter<br>Ask me about dart and flutter
+I'm currently learning Javascript, Node.js, Express.js, MangoDB and React<br>Ask me about Javascript 
 
 
 # 💻 Tech Stack:
